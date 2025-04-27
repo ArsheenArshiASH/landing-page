@@ -153,7 +153,57 @@ ul.client{
     justify-content: center;
     padding-top: 20px;
 }
+.sec3{
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: rgb(147, 241, 213);
 
+}
+.up{
+    display: flex;
+    width: 100vw;
+}
+.up-rw{
+    width: 60vw;
+    text-align: center;
 
+}
+.up-r .initial{
+    margin-left: 130px;
+    margin-top: 40px;
+}
+
+.up-l{
+    width: 40vw;
+    margin-top:100px;
+}
+.last-up button{
+    margin-left: 45%;
+    margin-top: 20px;
+}
+.last-down{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    list-style-type: none;
+
+}
+.p-foot{
+    text-align:left;
+    display: flex;
+    margin-left: 4rem;
+    text-align: center;
+    font-size: 40px;
+}
+.footer li{
+    margin-right:1000px;
+    font-size: 40px;
+}
+.last-down i{
+    margin-left: 100px;
+    font-size: 35px;
+}
 
 
